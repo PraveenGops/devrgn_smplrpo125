@@ -1,0 +1,7 @@
+version: "3"
+
+services:
+  website:
+    image: first_project
+    ports:
+     - 8080:80
